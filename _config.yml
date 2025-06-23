@@ -1,0 +1,12 @@
+title: Josh Jones
+description: IT Manager · Systems Admin · Tech Enthusiast
+baseurl: ""
+url: "https://joshjones-dev.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+author:
+  name: Josh Jones
+  email: joshua.mjones@outlook.com

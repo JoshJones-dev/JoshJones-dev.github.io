@@ -1,0 +1,9 @@
+/* Custom CSS */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #fdfdfd;
+  color: #222;
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
