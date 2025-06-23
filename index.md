@@ -1,7 +1,8 @@
-<link rel="stylesheet" href="/assets/style.css">
 ---
 layout: home
 title: Josh Jones
+---
+<link rel="stylesheet" href="/assets/style.css">
 ---
 
 # 👋 Hi, I'm Josh Jones

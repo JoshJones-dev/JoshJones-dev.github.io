@@ -1,7 +1,8 @@
-<link rel="stylesheet" href="/assets/style.css">
 ---
 layout: page
 title: Projects
+---
+<link rel="stylesheet" href="/assets/style.css">
 ---
 
 # 💻 Projects

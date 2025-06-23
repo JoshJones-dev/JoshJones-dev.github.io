@@ -1,7 +1,8 @@
-<link rel="stylesheet" href="/assets/style.css">
 ---
 layout: post
 title: Blog
+---
+<link rel="stylesheet" href="/assets/style.css">
 ---
 
 # 📝 Blog
