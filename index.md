@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/style.css">
 ---
 layout: home
 title: Josh Jones
