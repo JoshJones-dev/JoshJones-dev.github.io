@@ -5,7 +5,7 @@ title: Resume
 
 <link rel="stylesheet" href="/assets/style.css">
 
-# 📄 Resume
+# Resume
 
 <div data-aos="fade-up">
 <strong>Joshua M. Jones</strong>  
@@ -15,7 +15,7 @@ Location: Bothell, WA
 
 ---
 
-## 🧠 Executive Summary
+## Executive Summary
 
 <div data-aos="fade-in">
 Forward-thinking IT leader with a decade of experience managing global infrastructure, leading cross-functional teams, and driving innovation across enterprise environments. Proven success delivering scalable, secure, and cost-effective solutions across cloud, network, and data center systems. Passionate about continuous improvement, operational excellence, and enabling business growth through smart technology.
@@ -23,7 +23,7 @@ Forward-thinking IT leader with a decade of experience managing global infrastru
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Terex Corporation — Network and Operations Manager  
 *Dec 2024 – Present*  
@@ -51,7 +51,7 @@ Forward-thinking IT leader with a decade of experience managing global infrastru
 
 ---
 
-## 🎓 Education
+## Education
 
 - **M.S. Information Technology Management** – WGU (2024)  
 - **B.S. Information Technology** – WGU (2024)  
@@ -59,7 +59,7 @@ Forward-thinking IT leader with a decade of experience managing global infrastru
 
 ---
 
-## 🧾 Certifications
+## Certifications
 
 - CompTIA A+, Network+, Security+  
 - AWS Cloud Practitioner, ITIL 4  
@@ -67,12 +67,12 @@ Forward-thinking IT leader with a decade of experience managing global infrastru
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 Cisco · AWS · Active Directory · VMware · Splunk · SolarWinds · Office 365 · Bash · SQL · PowerShell · ServiceNow · Zendesk
 
 ---
 
-## 🤝 Soft Skills & Interests
+## Soft Skills & Interests
 
 Leadership · Communication · Adaptability · Cyberpsychology · Game Design · Coffee · Film
