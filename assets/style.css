@@ -46,6 +46,11 @@ header, footer {
   font-size: 0.9rem;
 }
 
+nav a {
+  color: #81d4fa !important;
+  font-weight: 500;
+}
+
 hr {
   border: 0;
   height: 1px;
