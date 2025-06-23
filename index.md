@@ -23,7 +23,7 @@ title: Josh Jones
 </div>
 
 <div data-aos="zoom-in" data-aos-delay="200">
-  <a href="/projects/">Projects</a> &nbsp;|&nbsp; <a href="/blog/">Blog</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/joshuamjonestech">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/JoshJones-Dev">💻 GitHub</a>
+  <a href="/projects/">Projects</a> &nbsp;|&nbsp; <a href="/blog/">Blog</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/joshuamjonestech">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/JoshJones-Dev">GitHub</a>
 </div>
 
 ---
@@ -32,8 +32,6 @@ title: Josh Jones
 
 <div data-aos="fade-up" data-aos-duration="600">
 - Lead IT operations for 20+ sites across the U.S., Mexico, and Canada  
-- Migrate enterprise infrastructure to Azure & OCVS  
-- Overhauled call center tech stack from ShoreTel to Zendesk Talk
 </div>
 
 ---
