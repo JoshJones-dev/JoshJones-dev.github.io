@@ -15,7 +15,7 @@ title: Josh Jones
 
 <img src="/assets/profile.png" alt="Josh Jones" style="border-radius: 50%; width: 120px; display: block; margin: auto;" data-aos="zoom-in" data-aos-duration="800" />
 
-# 👋 Hey, I'm Josh Jones
+# Hello there, I'm Josh Jones
 
 <div data-aos="fade-up">
   <strong>IT Manager & Systems Architect</strong><br>
@@ -28,7 +28,7 @@ title: Josh Jones
 
 ---
 
-## 👨‍💼 What I Do
+## What I Do
 
 <div data-aos="fade-up" data-aos-duration="600">
 - 🌐 Lead IT operations for 20+ sites across the U.S., Mexico, and Canada  
@@ -38,13 +38,13 @@ title: Josh Jones
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 <div data-aos="zoom-in-up">`Cisco` · `Azure` · `AWS` · `Active Directory` · `Jira` · `Splunk` · `PowerShell`</div>
 
 ---
 
-## 🔥 Featured Post
+## Featured Post
 
 <div data-aos="fade-left">
 [**Welcome to My Site**](/blog/2025/06/22/welcome.html)  
