@@ -5,8 +5,6 @@ title: Resume
 
 <link rel="stylesheet" href="/assets/style.css">
 
-# Resume
-
 <div data-aos="fade-up">
 <strong>Joshua M. Jones</strong>  
 Email: <a href="mailto:Joshua.mjones@outlook.com">Joshua.mjones@outlook.com</a>  
