@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: default
 title: Blog
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
 
-# Blog
+# 📝 Blog
 
-<div data-aos="fade-in">
-Welcome to my blog! Here you’ll find my thoughts on tech, IT management, and side projects.
-</div>
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}</li>
+  {% endfor %}
+</ul>
