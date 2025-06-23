@@ -2,15 +2,43 @@
 layout: home
 title: Josh Jones
 ---
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/style.css">
+
+<!-- AOS Animation Library -->
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    AOS.init();
+  });
+</script>
+
+
+# 👋 Hey, I'm Josh Jones
+
+<div data-aos="fade-up">
+  <strong>IT Manager & Systems Architect</strong><br>
+  Helping teams build reliable, secure, and scalable infrastructure across the Americas.
+</div>
+
+<div data-aos="zoom-in" data-aos-delay="200">
+  <a href="/projects/">📁 Projects</a> &nbsp;|&nbsp; <a href="/blog/">📝 Blog</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/joshuamjonestech">💼 LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/JoshJones-Dev">💻 GitHub</a>
+</div>
+
 ---
 
-# 👋 Hi, I'm Josh Jones
+## 👨‍💼 What I Do
 
-I'm an IT Manager passionate about infrastructure, automation, and cloud technology.  
-Welcome to my personal site!
+<div data-aos="fade-up">
+- 🌐 Lead IT operations for 20+ sites across the U.S., Mexico, and Canada  
+- ☁️ Migrate enterprise infrastructure to Azure & OCVS  
+- 📞 Overhauled call center tech stack from ShoreTel to Zendesk Talk
+</div>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joshuamjonestech)
-- 💻 [GitHub](https://github.com/JoshJones-Dev)
-- 📝 [Blog](/blog/)
-- 📁 [Projects](/projects/)
+---
+
+## 🧰 Tools & Technologies
+
+<div data-aos="zoom-in-up">`Cisco` · `Azure` · `AWS` · `Active Directory` · `Jira` · `Splunk` · `PowerShell`</div>
