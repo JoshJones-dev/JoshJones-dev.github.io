@@ -13,8 +13,6 @@ title: Josh Jones
   });
 </script>
 
-<img src="/assets/profile.png" alt="Josh Jones" style="border-radius: 50%; width: 120px; display: block; margin: auto;" data-aos="zoom-in" data-aos-duration="800" />
-
 # Hello there, I'm Josh Jones
 
 <div data-aos="fade-up">
@@ -41,10 +39,3 @@ title: Josh Jones
 <div data-aos="zoom-in-up">`Cisco` · `Azure` · `AWS` · `Active Directory` · `Jira` · `Splunk` · `PowerShell`</div>
 
 ---
-
-## Featured Post
-
-<div data-aos="fade-left">
-[**Welcome to My Site**](/blog/2025/06/22/welcome.html)  
-→ Thoughts on tech, leadership, and building better systems
-</div>
